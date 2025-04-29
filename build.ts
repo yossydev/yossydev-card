@@ -6,21 +6,16 @@ await build({
   entryPoints: ["./mod.ts"],
   outDir: "./npm",
   shims: {
-    // see JS docs for overview and more options
     deno: true,
   },
   package: {
-    // package.json properties
     name: "yossydev",
     version: Deno.args[0],
     description: "A personal card for Yuto Yoshino (@yossydev)",
     license: "MIT",
     repository: {
       type: "git",
-      url: "git+https://github.com/username/repo.git",
-    },
-    bugs: {
-      url: "https://github.com/username/repo/issues",
+      url: "git+https://github.com/yossydev/yossydev-card",
     },
   },
   postBuild() {
