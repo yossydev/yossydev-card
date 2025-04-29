@@ -38,7 +38,7 @@ const card = [
     " " +
       "Work" +
       "    :: " +
-      chalk.white("Frontend Enginier in Tokyo"),
+      chalk.white("Frontend Engineer in Tokyo"),
   ),
   createLine(
     " " +

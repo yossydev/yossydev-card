@@ -4,7 +4,11 @@ await emptyDir("./npm");
 
 await build({
   importMap: "deno.json",
-  entryPoints: ["./mod.ts"],
+  entryPoints: [{
+    kind: "bin",
+    path: "./mod.ts",
+    name: "yossydev",
+  }],
   outDir: "./npm",
   shims: {
     deno: true,
