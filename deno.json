@@ -1,10 +1,10 @@
 {
   "tasks": {
-    "dev": "deno run -A --watch mod.ts"
+    "dev": "deno run -A --watch mod.ts",
+    "publish": "deno run -A build_npm.ts"
   },
   "imports": {
     "@deno/dnt": "jsr:@deno/dnt@^0.41.3",
-    "@std/assert": "jsr:@std/assert@1",
     "chalk": "npm:chalk@^5.4.1"
   }
 }

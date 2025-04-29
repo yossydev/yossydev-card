@@ -16,3 +16,5 @@
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
+
+Inspired by [Tierney Cyren's bitandbang](https://github.com/bnb/bitandbang)
