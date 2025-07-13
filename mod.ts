@@ -67,7 +67,7 @@ const card = [
   createLine(
     " " +
       "Site" +
-      "     :: " +
+      "    :: " +
       chalk.cyan.underline("https://yossy.dev/"),
   ),
   emptyLine,
