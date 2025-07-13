@@ -38,7 +38,7 @@ const card = [
     " " +
       "Work" +
       "    :: " +
-      chalk.white("Frontend Engineer in Tokyo"),
+      chalk.white("Software Engineer in Tokyo"),
   ),
   createLine(
     " " +
@@ -66,7 +66,7 @@ const card = [
   ),
   createLine(
     " " +
-      "Web" +
+      "Site" +
       "     :: " +
       chalk.cyan.underline("https://yossy.dev/"),
   ),
