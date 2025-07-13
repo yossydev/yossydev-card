@@ -9,7 +9,7 @@
 │ Bluesky :: https://bsky.app/profile/yossydev.com     │
 │ GitHub  :: https://github.com/yossydev               │
 │ Email   :: yossydev@yossy.dev                        │
-│ Web     :: https://yossy.dev/                        │
+│ Site    :: https://yossy.dev/                        │
 │                                                      │
 │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
 │ > Run npx yossydev anytime to see this card          │
