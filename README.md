@@ -4,7 +4,7 @@
 │            Yuto Yoshino / yossydev                   │
 │ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
 │                                                      │
-│ Work    :: Frontend Enginier in Tokyo                │
+│ Work    :: Software Engineer in Tokyo                │
 │ X       :: https://x.com/yossydev                    │
 │ Bluesky :: https://bsky.app/profile/yossydev.com     │
 │ GitHub  :: https://github.com/yossydev               │
